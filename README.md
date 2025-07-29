@@ -25,6 +25,21 @@
 
 ---
 
+## 📸 Screenshots
+
+Below are some screenshots of Zero-to-Hired in action:
+
+### 🖼️ Chatbot Interface
+![Home Screen](screenshots/before.png)
+
+### 🖼️ CV Upload Page
+![CV Upload](screenshots/uploadcv.png)
+
+### 🖼️ Chatbot Interface (After Malicious CV Upload)
+![Chatbot Interaction](screenshots/injection.png)
+
+---
+
 ## ⚠️ Disclaimer
 
 🛡️ This project is for **educational purposes only**. Please do not attempt to exploit real-world systems. The goal is to explore and learn about prompt injection in a safe and ethical setup.
