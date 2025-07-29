@@ -30,13 +30,11 @@
 Below are some screenshots of Zero-to-Hired in action:
 
 ### 🖼️ Chatbot Interface
-![Home Screen](screenshots/before.png)
+<img src="screenshots/before.png" width="400"/>
 
-### 🖼️ CV Upload Page
-![CV Upload](screenshots/uploadcv.png)
 
 ### 🖼️ Chatbot Interface (After Malicious CV Upload)
-![Chatbot Interaction](screenshots/injection.png)
+<img src="screenshots/injection.png" width="400"/>
 
 ---
 
