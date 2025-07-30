@@ -17,9 +17,9 @@
 
 ## ⚙️ Technology Stack
 
-- 🛠️ **LangGraph** – Handles the AI agent's reasoning and orchestrates the process flow.  
+- 🛠️ **LangGraph** – Handles the AI reasoning and orchestrates the process flow.  
 - ⚡ **Groq** (`moonshotai/kimi-k2-instruct`) – Provides LLM inference for AI résumé evaluation.  
-- 💬 **Streamlit** – Hosts the chatbot interface where users upload CVs and interact with the AI agent.
+- 💬 **Streamlit** – Hosts the chatbot interface where users upload CVs and interact with the AI chatbot.
 
 
 
